@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">No Assembly Required</string>
+    <string name="patio">Patio</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="dresser">Dresser</string>
+    <string name="button">View Tools Required</string>
+    <string name="patioTools">-Hammer \n-Table Saw \n-Drill Set \n-Measuring Tape \n-Shovel</string>
+    <string name="bicycleTools">-Socket Wrenches \n-ScrewDriver</string>
+    <string name="dresserTools">-Phillips Screwdriver</string>
+</resources>
